@@ -1,0 +1,23 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_23F0ADFB_2FD0_2149_41AC_4F886FC471B5.label = PanCam_000_HighPass
+panorama_22045E51_2FD0_6355_41C1_09F0C82659F7.label = PanCam_001_HighPass
+panorama_238846F4_2FD0_2352_419D_DC4E5C0D62D9.label = PanCam_002_HighPass
+panorama_238E514F_2FD0_214E_419A_D161B62F029C.label = PanCam_003_HighPass
+panorama_238E0A8D_2FD0_23CD_41B6_513F7A81BA66.label = PanCam_004_HighPass
+panorama_238E040F_2FD0_E6CD_41C4_D18A1DE3A45D.label = PanCam_005_HighPass
+
+## Skin
+
+### Multiline Text
+HTMLText_3D9D9AD1_2FD3_E3AA_41C2_0A410CF2B467.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:12px;"><B>Casa das Mesurinhas | Célia Magalhães, arch</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:10px;">| tour by Imagine We Create |</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 520 | Casa das Mesurinhas | Correcto
